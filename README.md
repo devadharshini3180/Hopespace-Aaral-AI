@@ -18,8 +18,7 @@ Our platform aims to provide a safe digital space where users can connect, expre
 
 ### 🚀 Prototype
 
-[Click here to view the HopeSpace Aaral AI Prototype](file:///C:/Users/HP/Downloads/hopespace_real_social%20(3).html)
-
+[Click here to view the HopeSpace Aaral AI Prototype](https://app.emergent.sh/home).
 ### 📊 Presentation
 
 [Click here to view the Project Presentation (PPT)](https://drive.google.com/drive/folders/1bwcz1vKjkKWyg06ZWQ5aEpjeDkfpqt09)
