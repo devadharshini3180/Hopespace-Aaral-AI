@@ -1,4 +1,3 @@
-# Hopespace-Aaral-AI
 # HopeSpace Aaral AI 🌱
 
 ## 🧠 About the Project
@@ -19,7 +18,7 @@ Our platform aims to provide a safe digital space where users can connect, expre
 
 ### 🚀 Prototype
 
-[Click here to view the HopeSpace Aaral AI Prototype](https://devadharshini3180.github.io/Hopespace-Aaral-AI/)
+[Click here to view the HopeSpace Aaral AI Prototype](file:///C:/Users/HP/Downloads/hopespace_real_social%20(3).html)
 
 ### 📊 Presentation
 
